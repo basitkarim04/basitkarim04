@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basitkarim04&label=Profile%20views&color=0e75b6&style=flat" alt="basitkarim04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basitkarim04" alt="basitkarim04" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/basit__karim" target="blank"><img src="https://img.shields.io/twitter/follow/basit__karim?logo=twitter&style=for-the-badge" alt="basit__karim" /></a> </p>
 
 - 🔭 I’m currently working on [nexleads](https://github.com/basitkarim04/NexLeads.git)
