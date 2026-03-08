@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basit Karim</h1>
-<h3 align="center">I Basit Karim, an Enthusiastic Web/App Developer passionate about AI and Machine Learning. Exploring the world of technology has been an exhilarating experience for me.</h3>
+<h3 align="center">An Enthusiastic App/Web Developer passionate about AI and Machine Learning. Exploring the world of technology has been an exhilarating experience for me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basitkarim04&label=Profile%20views&color=0e75b6&style=flat" alt="basitkarim04" /> </p>
 
